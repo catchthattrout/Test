@@ -1,2 +1,2 @@
 # Test
-This is a TEST
+Hi! I'm trying to learn git. Just created a file for testing purpose
